@@ -228,7 +228,7 @@ arrowKeys = false
 
 numPad = false
 
-transistor = false
+transistor = true
 
 chip1 = true
 
@@ -327,3 +327,9 @@ appengTunnel = true
 chipDiamond = false
 
 gemDiamond = false
+
+beekeeperUpgrade = true
+
+configuratorUpgrade = true
+
+ritegUpgrade = true
